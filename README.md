@@ -6,5 +6,5 @@ In this case, you can see a piece of cloth falling to the ball.
 PBD method and a simple mass-spring system.
 
 ## Render
-using gui to render the scene in 2D
+Using gui to render the scene in 2D
 
