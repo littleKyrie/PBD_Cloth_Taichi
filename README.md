@@ -13,5 +13,16 @@ We also try to use Gauss-Seidel method to update two ends of an edge straightly.
 Using gui to render the scene in 2D
 
 ## Effects
-<img width="499" alt="image" src="https://user-images.githubusercontent.com/53171201/209609460-c6705ac8-c73b-4da4-aad1-7d5bcb30dcb9.png">
-<img width="495" alt="image" src="https://user-images.githubusercontent.com/53171201/209612521-12cdce8a-f8b3-49b0-a0fb-f2e71e531cd4.png">
+
+Jacobi
+
+
+
+https://user-images.githubusercontent.com/53171201/209674124-fb2ca8e9-e12f-42ea-9575-1a3e60dd04d8.mov
+
+
+
+Gauss-Seidel
+
+https://user-images.githubusercontent.com/53171201/209673793-e8141ded-43e2-4ebd-bb58-cb7aa07e1bc2.mov
+
