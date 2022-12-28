@@ -18,11 +18,18 @@ Jacobi
 
 
 
-https://user-images.githubusercontent.com/53171201/209674124-fb2ca8e9-e12f-42ea-9575-1a3e60dd04d8.mov
+https://user-images.githubusercontent.com/53171201/209818025-f7eb247e-d850-4018-898d-564a5e0e144a.mov
+
+
+
 
 
 
 Gauss-Seidel
 
-https://user-images.githubusercontent.com/53171201/209673793-e8141ded-43e2-4ebd-bb58-cb7aa07e1bc2.mov
+
+https://user-images.githubusercontent.com/53171201/209819838-9d4faff8-45ab-44bc-b9c5-e84811e81bc9.mov
+
+
+
 
